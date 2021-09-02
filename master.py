@@ -33,3 +33,4 @@ while True:
             sys.exit()
     except:
         break
+input()
